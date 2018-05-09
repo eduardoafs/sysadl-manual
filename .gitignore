@@ -1,0 +1,6 @@
+/chapters/*.aux
+/*.aux
+/*.gz
+/*.pdf
+/*.log
+/*.toc
